@@ -3,6 +3,3 @@ An A.I. chatbot that can detect sound location, conversate with a user, and uses
 
 # Assembled Project Components:
 ![Assembled%20Project%20Components](https://github.com/jwrhone/Congenial-AI-Senior-Project/blob/main/media/Assembled%20Project%20Components.jpg)
-
-# Sound Detector Rotation:
-![](media/1.gif)
